@@ -1,4 +1,4 @@
-# test-automation
+# java-ui-automation
 ## Purpose
 
 ## Project Info
